@@ -33,9 +33,9 @@ I'm a **passionate Mobile Developer** with a mission to create **impactful digit
 ---
 
 ## 🌟 **Portfolio & Projects**
-- 🖥️ **My Projects**: [View My Work](https://github.com/iqbalsuwandi20?tab=repositories)  
+- 🖥️ **My Projects**: [View My Work](https://drive.google.com/drive/folders/1NlSXRvADkqMm-2IMJkZpnrNV3ngmF5y6?usp=sharing)  
 - 📧 **Reach Out**: iqbalsuwandi20@gmail.com  
-- 📝 **Resume**: [Download My CV](https://acesse.one/resume-iqbalsuwandi20)  
+- 📝 **Resume**: [Download My CV](https://drive.google.com/file/d/1nnlqeDiuFveF79WXryg7RB_xyMsdPQ4B/view?usp=sharing)  
 
 ---
 
@@ -95,6 +95,9 @@ I'm a **passionate Mobile Developer** with a mission to create **impactful digit
   </a>
   <a href="https://discordapp.com/users/iqbalsuwandi20#1234" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:iqbalsuwandi20@gmail.com?subject=Halo%20Iqbal!%20I%20want%20to%20talk%20to%20you&body=Fill%20in%20the%20message%here" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
