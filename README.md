@@ -1,32 +1,114 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://linktr.ee/iqbalsuwandi20?fbclid=PAZXh0bgNhZW0CMTEAAaZ2OQliGr_JLk9m5n-u1O8xpwIhsnhEEUQtu0paK1AM6_quEqY39u4x7uE_aem_nUBeR53Q2lCC08YSDG8aXw)
-<h1 align="center">Hi 👋, I'm Iqbal Suwandi</h1>
-<h3 align="center">Welcome to my portfolio repository – a showcase of my projects and achievements.</h3>
-<image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center" style="font-size: 3.5rem;">✨ Hey, I'm <span style="color:#4CAF50; font-weight:bold;">Iqbal Suwandi</span> ✨</h1>
+<h3 align="center" style="font-style:italic;">🚀 Mobile Developer | 🧠 Problem Solver | 💡 Innovator</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZud2g5MzlhOHh3dWdmM3Z3c3pzZXlnc2kyaXAzdTRrc2dqeXRlbiZjdD1z/2IudUHdI075HL02Pkk/giphy.gif" alt="Developer Animation" width="50%" style="border-radius:15px; margin:20px;"/>
+</div>
 
-<p align="left"> <a href="https://twitter.com/iqbalsuwandi20" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalsuwandi20?logo=twitter&style=for-the-badge" alt="iqbalsuwandi20" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/iqbalsuwandi20?tab=repositories](https://github.com/iqbalsuwandi20?tab=repositories)
+## 🚀 **About Me**
+I'm a **passionate Mobile Developer** with a mission to create **impactful digital experiences**. Specializing in **Flutter**, I thrive on solving real-world problems through **high-performance applications** with a focus on **user-first design**.
 
-- 📫 How to reach me **iqbalsuwandi20@gmail.com**
+### 💡 **What Drives Me?**
+- 🌟 Crafting intuitive, visually stunning mobile apps.  
+- 🤝 Collaborating to turn ambitious ideas into reality.  
+- 📚 Continuously learning cutting-edge technologies to stay ahead of the curve.
 
-- 📄 Know about my experiences [https://acesse.one/resume-iqbalsuwandi20](https://acesse.one/resume-iqbalsuwandi20)
+> 💬 *"Great apps don't just work—they inspire!"*
 
-- ⚡ Fun fact **I think I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iqbalsuwandi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqbalsuwandi20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iqbalsuwandi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqbalsuwandi20" height="30" width="40" /></a>
-<a href="https://fb.com/iqbalsuwandi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iqbalsuwandi20" height="30" width="40" /></a>
-<a href="https://instagram.com/iqbalsuwandi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsuwandi20" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding" width="350" style="margin: 10px; border-radius:10px;" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🎯 **Core Expertise**  
+- 📱 **Mobile Development**: Designing sleek, responsive, and dynamic applications.  
+- ⚙️ **State Management**: Proficient in **GetX** & **BLoC** for efficient development.  
+- 🔗 **API Integration**: Building seamless connectivity to external services.  
+- 🔥 **Firebase Mastery**: Real-time solutions for performance-critical apps.  
+- 🎨 **UI/UX Wizardry**: Creating captivating designs that enhance user engagement.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalsuwandi20&show_icons=true&locale=en&layout=compact" alt="iqbalsuwandi20" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalsuwandi20&show_icons=true&locale=en" alt="iqbalsuwandi20" /></p>
+## 🌟 **Portfolio & Projects**
+- 🖥️ **My Projects**: [View My Work](https://github.com/iqbalsuwandi20?tab=repositories)  
+- 📧 **Reach Out**: iqbalsuwandi20@gmail.com  
+- 📝 **Resume**: [Download My CV](https://acesse.one/resume-iqbalsuwandi20)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalsuwandi20&" alt="iqbalsuwandi20" /></p>
+---
+
+## 🛠️ **My Toolbox**  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+
+---
+
+## 📊 **GitHub Performance**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalsuwandi20&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="45%" style="border-radius:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalsuwandi20&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="45%" style="border-radius:10px;"/>
+</div>
+
+<div align="center" style="margin:20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalsuwandi20&theme=radical" alt="GitHub Streak" width="90%" style="border-radius:10px;"/>
+</div>
+
+---
+
+## 🌐 **Let's Connect!**  
+
+<div align="center">
+  <a href="https://twitter.com/iqbalsuwandi20" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/iqbalsuwandi20" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/iqbalsuwandi20" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://fb.com/iqbalsuwandi20" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/6287874128565" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://t.me/iqbalsuwandi20" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.threads.net/@iqbalsuwandi20" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="https://open.spotify.com/user/31tozhlegia7hhf52aiwqujqhslm" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://discordapp.com/users/iqbalsuwandi20#1234" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+---
+
+## 🌟 **Why Work with Me?**
+
+✅ Deep technical expertise with a user-first mindset.  
+✅ Proven success in developing scalable, efficient, and creative mobile apps.  
+✅ Passionate, detail-oriented, and driven to succeed.  
+
+---
+
+<div align="center">
+  <h2>🚀 Let’s Build the Future Together! 🚀</h2>
+  <p><em>"Your next big idea is just a conversation away."</em></p>
+</div>
