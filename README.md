@@ -96,7 +96,7 @@ I'm a **passionate Mobile Developer** with a mission to create **impactful digit
   <a href="https://discordapp.com/users/iqbalsuwandi20#1234" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:iqbalsuwandi20@gmail.com?subject=Halo%20Iqbal!%20I%20want%20to%20talk%20to%20you&body=Fill%20in%20the%20message%here" target="_blank">
+  <a href="mailto:iqbalsuwandi20@gmail.com?subject=Hi%20Iqbal!%20I%20want%20to%20talk%20with%20you&body=Please%20send%20a%20message%20here" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
