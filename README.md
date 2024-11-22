@@ -57,6 +57,8 @@ I'm a **passionate Mobile Developer** with a mission to create **impactful digit
   <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" alt="Hive"/>
   <img src="https://img.shields.io/badge/Sqflite-00A9A5?style=for-the-badge&logo=sqflite&logoColor=white" alt="SQFlite"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/GetX-5CB85C?style=for-the-badge&logo=getx&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/BLoC-2C3E50?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC"/>
 </div>
 
 ---
