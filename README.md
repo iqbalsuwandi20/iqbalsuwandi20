@@ -33,9 +33,9 @@ I'm a **passionate Mobile Developer** with a mission to create **impactful digit
 ---
 
 ## 🌟 **Portfolio & Projects**
-- 🖥️ **My Projects**: [View My Work](https://drive.google.com/drive/folders/1NlSXRvADkqMm-2IMJkZpnrNV3ngmF5y6?usp=sharing)  
+- 🖥️ **My Projects**: [View My Work](https://drive.google.com/drive/folders/1vMBeepG0lauKnzq5xYdnp8_-kWz_JY41?usp=sharing)  
 - 📧 **Reach Out**: iqbalsuwandi20@gmail.com  
-- 📝 **Resume**: [Download My CV](https://drive.google.com/file/d/1nnlqeDiuFveF79WXryg7RB_xyMsdPQ4B/view?usp=sharing)  
+- 📝 **Resume**: [Download My CV](https://drive.google.com/drive/folders/1uUUT42aEJYyB9AXIqcb_pzHIbuaHYIHu?usp=sharing)  
 
 ---
 
